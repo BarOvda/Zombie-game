@@ -1,3 +1,3 @@
 # Zombie-game
 My very first Android game, help the survivor handle the zombies
-![](screenshots/screensot1.png)
+![](Zombie%20Game/screenshots/screensot1.png)
