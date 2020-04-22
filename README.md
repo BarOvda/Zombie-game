@@ -1,5 +1,5 @@
 # Zombie-game
-My very first Android game, help the survivor handle the zombies
+My very first Java game, help the survivor handle the zombies
 
 ![](Zombie%20Game/screenshots/screenshot1png.png)
 
